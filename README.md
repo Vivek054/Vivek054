@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Computer Vision with DevIncept.
 - 🌱 I’m currently learning Deep Machine Learning and Computer Vision.
 - 👯 I’m looking to collaborate on Artificial Intelligence with Data Science
-- 🤔 I’m looking for help with to find fresher level job on Data Science
+- 🤔 I’m looking for help to find fresher level job on Data Science
 - 💬 Ask me about my Data analytics, visualization and modeling.
 - 📫 You Can reach me to my mail [kallurivivek54@gmail.com](mailto:kallurivivek54@gmail.com)
